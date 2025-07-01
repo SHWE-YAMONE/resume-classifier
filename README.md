@@ -15,4 +15,4 @@
 ![Alt text](model_development.jpg)
 
 ## 📊 Frontend Flowchart
-![Alt text](forntend.jpg)   
+![Alt text](frontend.jpg)   
